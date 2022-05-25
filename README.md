@@ -3,7 +3,7 @@
 ## Description
 
 ```
-Submission of MOdule 12 Challenge EMPLOYEE TRACKER
+Submission of Module 12 Challenge EMPLOYEE TRACKER
 ```
 
 ## User Story
